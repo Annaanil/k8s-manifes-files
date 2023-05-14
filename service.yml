@@ -12,5 +12,5 @@ spec:
   ports:
   - name: tcp-port
     protocol: TCP
-    port: 88
-    targetPort: 80
+    port: 80
+    targetPort: 8080
